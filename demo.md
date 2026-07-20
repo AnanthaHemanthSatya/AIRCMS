@@ -12,7 +12,7 @@ https://drive.google.com/file/d/198NBIRv568oavWqhJX9iyJin18AbDjWI/view?usp=drive
 
 ## Project Repository
 
-https://github.com/gavararohithsaianjan01-dotcom/AIRCMS
+https://github.com/AnanthaHemanthSatya/AIRCMS
 
 ---
 
